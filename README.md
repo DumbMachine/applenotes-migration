@@ -2,7 +2,8 @@
 
 https://news.ycombinator.com/item?id=35316679 was a reminder to remove my notes from :apple: notes to obsidian. So here's a simple script
 
-<mark>Note this won't work for rich media stored in your notes, like pdfs. :(</mark>
+### Steps
+> Note this won't work for rich media stored in your notes, like pdfs. :(
 
 1. Run the JXA script to extract all notes to seperate html files
 
@@ -15,5 +16,6 @@ https://news.ycombinator.com/item?id=35316679 was a reminder to remove my notes 
    $ python main.py <folder_name>
    ```
 
-##### Finding your Obsidian Vault
-Checkout these images
+### Finding your Obsidian Vault
+<img width="766" alt="image" src="https://user-images.githubusercontent.com/23381512/227881000-5db3d91c-0649-4ecc-b8b2-fd4872e27052.png">
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/23381512/227881504-44eaae03-ff88-4f86-8074-1dcc11149ae5.png">
